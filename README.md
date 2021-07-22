@@ -1,5 +1,6 @@
 # Isaac-Repentence-Open-Unnerf-Pack
 A mod for The Binding of Isaac Repentance that combines diffrent unnerf mods into a single mod.
+Steam Workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=2554325871
 
 # Unnerfs Currently Included
 - Maw of the Void Unnerf
