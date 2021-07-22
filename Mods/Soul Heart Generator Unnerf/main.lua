@@ -8,11 +8,11 @@ soulheartgeneratorUnnerf.enableBlueFireUnnerf = true
 
 
 --Requires
-require("relicunnerf")
-require("darkbumunnerf")
-require("nailunnerf")
-require("satanicbibleunnerf")
-require("bluefireunnerf")
+require("Mods/Soul Heart Generator Unnerf/relicunnerf")
+require("Mods/Soul Heart Generator Unnerf/darkbumunnerf")
+require("Mods/Soul Heart Generator Unnerf/nailunnerf")
+require("Mods/Soul Heart Generator Unnerf/satanicbibleunnerf")
+require("Mods/Soul Heart Generator Unnerf/bluefireunnerf")
 
 function soulheartgeneratorUnnerf:familiarUpdate(familiar) --Unnerf Relic
 	if (self.enableRelicUnnerf) then
